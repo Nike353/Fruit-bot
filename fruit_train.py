@@ -14,7 +14,7 @@ from tensorflow.keras.models import Model
 np.random.seed(42)
 
 # Specify the base directory where images are located.
-base_dir = '/content/drive/My Drive/fruit-bot/fruits-360-original-size/'
+base_dir = '/content/drive/My Drive/fruit-bot/fruits-dataset/'
 # Specify the traning, validation, and test dirrectories.  
 train_dir = os.path.join(base_dir, 'Training')
 test_dir = os.path.join(base_dir, 'Test')
