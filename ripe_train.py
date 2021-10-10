@@ -28,7 +28,7 @@ for path in os.listdir():
 
 #repeating the same to ripe and unripe
 
-os.chdir(r"C:\Users\abhay\desktop\dl\banana_ripeness_detection\data\train\ripe") ##Change with your current working directory
+os.chdir(r"C:\Users\varun\desktop\dl\banana_ripeness_detection\data\train\ripe") ##Change with your current working directory
 print(os.getcwd())  ##Current Working Directory
 
 for path in os.listdir():
@@ -41,7 +41,7 @@ for path in os.listdir():
         i += 1
         if i > 10:     ## creates 10 image form 1 image 
             break
-os.chdir(r"C:\Users\abhay\desktop\dl\banana_ripeness_detection\data\train\unripe") ##Change with your current working directory
+os.chdir(r"C:\Users\varun\desktop\dl\banana_ripeness_detection\data\train\unripe") ##Change with your current working directory
 print(os.getcwd())  ##Current Working Directory
 
 for path in os.listdir():
