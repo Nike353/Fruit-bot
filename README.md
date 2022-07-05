@@ -1,4 +1,4 @@
-# Fruit-bot
+# Fruit-bot (Certificate uploaded above as fruit-bot 2nd)
 Repository for the fruit-bot event by techsoc 
 ## Description about each code
 ### 1)Ripe_train
